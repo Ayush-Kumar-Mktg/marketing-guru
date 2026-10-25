@@ -1,0 +1,10 @@
+{
+  "name": "marketing-guru",
+  "description": "16 marketing skills: copywriting, conversion, email, social, SEO and AI search, paid ads, influencers, launches, positioning, growth strategy, psychology, AI workflows and a humanizing pass. It gives you the angles. You do the thinking.",
+  "version": "1.0.0",
+  "author": { "name": "Ayush Kumar", "url": "https://github.com/Ayush-Kumar-Mktg" },
+  "homepage": "https://github.com/Ayush-Kumar-Mktg/marketing-guru",
+  "repository": "https://github.com/Ayush-Kumar-Mktg/marketing-guru",
+  "license": "MIT",
+  "keywords": ["marketing", "copywriting", "seo", "aeo", "cro", "email", "linkedin", "paid-ads", "positioning", "growth"]
+}

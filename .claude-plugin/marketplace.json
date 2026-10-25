@@ -1,0 +1,16 @@
+{
+  "name": "marketing-guru",
+  "owner": { "name": "Ayush Kumar", "url": "https://github.com/Ayush-Kumar-Mktg" },
+  "metadata": {
+    "description": "Marketing skills for AI agents. It gives you the angles. You do the thinking.",
+    "version": "1.0.0",
+    "repository": "https://github.com/Ayush-Kumar-Mktg/marketing-guru"
+  },
+  "plugins": [
+    {
+      "name": "marketing-guru",
+      "description": "16 marketing skills: copywriting, conversion, email, social, SEO and AI search, paid ads, influencers, launches, positioning, growth strategy, psychology, AI workflows and a humanizing pass.",
+      "source": "./"
+    }
+  ]
+}
