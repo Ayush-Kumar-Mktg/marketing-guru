@@ -121,7 +121,7 @@ For a single project, copy them into `.claude/skills/` inside that project inste
 
 ## How it writes
 
-Every skill finishes with the `humanize-writing` pass, so what you get back:
+Every skill finishes with the `humanize-writing` pass by default. Want the raw draft instead? Say "skip humanize". You can also run `humanize-writing` on its own to clean up any text you already have. With the pass on, what you get back:
 
 - has no long dashes, no "delve", no "unlock", no "seamless"
 - skips "Great question!" and "I hope this helps"
