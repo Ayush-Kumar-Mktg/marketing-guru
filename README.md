@@ -147,4 +147,4 @@ MIT. Use it, change it, share it. See [LICENSE](LICENSE).
 
 Made by Ak, a B2B marketer. I write about how brands get people to notice what they built.
 
-[LinkedIn](https://www.linkedin.com/in/ayushkumar-marketing/) · [GitHub](https://github.com/Ayush-Kumar-Mktg)
+[LinkedIn](https://www.linkedin.com/in/ayushkumar-marketing/) · [Instagram](https://www.instagram.com/akbrandlab/) · [GitHub](https://github.com/Ayush-Kumar-Mktg)
